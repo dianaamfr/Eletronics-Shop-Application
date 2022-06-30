@@ -1,3 +1,9 @@
 node_modules/
 package-lock.json 
 
+
+printer/.idea/
+
+server/.env
+
+src/.idea/
